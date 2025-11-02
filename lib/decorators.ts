@@ -1,4 +1,4 @@
-//This lib is related to decorator
+//This lib is related to decorators
 
 import { MessagePattern } from '@nestjs/microservices';
 
